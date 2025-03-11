@@ -10,15 +10,16 @@ I detta caset ska ni få arbeta i grupp för att hjälpa ett fiktivt företag. S
 
 Ni får välja mellan följande
 
-- Det lilla bryggeriet i Sösdala
-- Ekologiskt kafferosteri
+- Hemsida för organisation/aktivism för något ändamål/minoritet
+- Custom t-shirt/keps tryckeri
 - Tumlaresafari vid Kullensfyr
 - Torktumlarsafari på Emporia
+- Hemsida/Portfolio för ett nytt webbyrå-start-ups-kollektiv
 - Den stora orienteringstävlingen som detta år är i Glimåkra
-- Lite exklusiva kallbadhuset vid Immeln
-- Mindfullnessgården i Snöarp
+- Lite exklusiva kallbadhuset i Varberg
+- Ishotellet i Dubai eller kanske i fjällvärlden, ni väljer ;-)
 - Surfshopen och deras bar i Varberg
-- Systrarna som själva smider silversmycken
+- Restaurang på söder i Stockholm
 - … eller kom på ett eget
 
 **2. Utforma en designskiss**
@@ -36,8 +37,10 @@ Arbeta med Wordpress för att förverkliga idéskissen. Ni är fria att använda
 
 **Krav**
 
-- Responsiv
-- Temat skall vara egenskapat (med underscores.me)
+- Presentera i skrift till lärare vilket koncept ni har kommit fram till. (Deadline: 13 mars)
+- Ni kommer få en subdomän till glimnet.nu så vi behöver veta vad "kunden" heter (Exempelvis: **burntbeans**.glimnet.nu) (Deadline: 13 mars)
+- Responsiv design (Mobile first)
+- Temat skall vara egen utvecklat (med underscores.me)
 - Uppfylla krav utifrån valt koncept (Ni kommer få reda på dessa av oss lärare när ni valt koncept)
 - Er wordpress ska vara hostad på en server och åtkomlig (Ni kommer få en servermiljö av oss lärare)
 
@@ -66,6 +69,7 @@ Det kommer ges muntlig feedback till er i samband med redovisningarna.
 
 - wpbeginner.com
 - wordpress.com
+- underscores.me
 
 **Gruppindelning**
 Se teams
